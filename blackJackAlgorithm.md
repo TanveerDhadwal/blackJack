@@ -1,6 +1,6 @@
-##blackJack Algorithm
+## blackJack Algorithm
 
-**create a card object
+## create a card object
 	**create a constructor that gives it no value for card 
 	**create a make card method
 		**intialize a private variable called suite which will hold the value returned from the suite function 
@@ -26,7 +26,7 @@
 						**return the value 14
 					**else 
 						**return 10
-**create the dealer function which gets passed a parameter of 1 or 2
+## create the dealer function which gets passed a parameter of 1 or 2
 	**create a card object a
 	**create another card object b 
 	**if the parameter equals 1
