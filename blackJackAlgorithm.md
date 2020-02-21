@@ -1,9 +1,9 @@
 ## blackJack Algorithm
 
 ## create a card object
-	**create a constructor that gives it no value for card 
-	**create a make card method
-		**intialize a private variable called suite which will hold the value returned from the suite function 
+	create a constructor that gives it no value for card 
+	create a make card method
+		intialize a private variable called suite which will hold the value returned from the suite function 
 		**intialize a private variable called cardvalue which will hold the value of the the card
 		**call the suite method and set it equal to var suite
 		**call the value method and set it equal to the var cardvalue
